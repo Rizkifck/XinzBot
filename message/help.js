@@ -1,5 +1,5 @@
 exports.menu = (prefix, i) => {
-    return `*INI WM AQULZZ*
+    return `
 `
 }
 
@@ -8,9 +8,9 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ╒═══ 《 *${botName}* 》 ═══
 ├────────────────────
 ├≽ *Creator : ${ownerName}*
-├≽ *Lib : Baileys V.3.5.1*
 ├≽ *Prefix : 「 ${prefix} 」*
-├≽ *Total Fitur : 200+*
+├≽ *Follow My Instagram:@anfebn*
+├≽ *Link :https://instagram.com/anfebn
 ├≽ *Total Pengguna : ${pendaftar.length}*
 ├≽ *Tanggal : ${tanggal}*
 ├≽ *Pukul : ${jam}*
@@ -43,18 +43,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├≽ *${prefix}makermenu*
 ├≽ *${prefix}storagemenu*
 ├≽ *${prefix}othermenu*
-├────────────────────
-╞═══ 《 *THANKS TO* 》 ═══
-├────────────────────
-├≽ *Xinz-Team*
-├≽ *Aqulzz*
-├≽ *Nafizz*
-├≽ *Y-DhyZx*
-├≽ *Ramlan ID*
-├≽ *X-MrG3P5*
-├≽ *Nanda*
-├≽ *Juwen*
-├≽ *Adiwajshing/Baileys*
+├───────────────────
 ╘═══ 《 *By ${ownerName}* 》 ═══`
 }
 
