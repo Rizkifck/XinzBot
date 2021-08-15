@@ -9,8 +9,8 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├────────────────────
 ├≽ *Creator : ${ownerName}*
 ├≽ *Prefix : 「 ${prefix} 」*
-├≽ *Follow My Instagram:@anfebn*
-├≽ *Link :https://instagram.com/anfebn
+├≽ *Follow My Instagram:@rizkitirta99_*
+├≽ *Link :https://instagram.com/rizkitirta99_
 ├≽ *Total Pengguna : ${pendaftar.length}*
 ├≽ *Tanggal : ${tanggal}*
 ├≽ *Pukul : ${jam}*
