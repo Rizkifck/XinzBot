@@ -1,8 +1,8 @@
 {
     "ownerNumber": "6287772343860@s.whatsapp.net",
     "ownerName": "anfebn",
-    "limitCount": 30,
-    "gamewaktu": 60,
+    "limitCount": 10,
+    "gamewaktu": 120,
     "botName": "anfebnBotz",
     "pathImg": "./media/Itsuki.jpg",
     "apikey": "YOUR_APIKEY",
