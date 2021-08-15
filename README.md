@@ -8,8 +8,8 @@
 <a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-TimTRY-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Rizkifck/followers"><img title="Followers" src="https://img.shields.io/github/followers/zennn08?color=blue&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
+<a href="https://github.com/Rizkifck/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rizkifck?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rizkifck/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rizkifck/XinzBot?color=red&style=flat-square"></a>
 <a href="https://github.com/zennn08/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
 <a href="https://github.com/zennn08/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xinz-Team/XinzBot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
